@@ -8,7 +8,6 @@ Learning Resources
   * Tutorials with exercises using nodeJS: https://nodeschool.io/
   * The world of JavaScript in a website: https://github.com/sorrycc/awesome-javascript
   
-  
 * Scala
 
   * Coursera set of courses for all levels: https://www.coursera.org/specializations/scala
@@ -29,7 +28,10 @@ Learning Resources
 
   * Site to help you practice git and specific text editor commands in a gamified way: https://www.shortcutfoo.com/
 
+* Machine Learning
 
+  * Andrew Ng's introduction to Machine Learning: https://www.coursera.org/learn/machine-learning
+  
 Project Ideas 
 =========================
 
